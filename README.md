@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- A Senior student at (Faculty of Computer and Artificial Intelligence - Cairo University).<br><br>- I’m Looking forward to gain more experience in AI and Data Sciece .<br><br>- I’m currently learning NLP.</p>
+<p align="left">- A Senior student at (Faculty of Computer and Artificial Intelligence - Cairo University).<br><br>- I'm Looking forward to gain more experience in AI and Data Science.<br><br>- I'm currently learning NLP.</p>
 
 ###
 
@@ -78,6 +78,10 @@
 
 ###
 
-<a href="https://hazem-waleed.vercel.app/" target="_blank">
+<div align="left">
+  <a href="https://hazem-waleed.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" height="40" alt="website logo" />
+  </a>
+</div>
 
 ###
