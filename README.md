@@ -1,87 +1,102 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I am Hazem Waleed
+<h1 align="center">Hi 👋, I'm Hazem Waleed</h1>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" height="80" />
+</p>
 
-###
+<p align="center">
+  <strong>Senior AI Student | NLP • Deep Learning • RAG • LLMs • AI in Healthcare</strong><br>
+  🚀 Building real-world AI assistants and NLP pipelines that solve real problems!
+</p>
 
-<h2 align="left">About me</h2>
+---
 
-###
+### 🧠 About Me
 
-<p align="left">- A Senior student at (Faculty of Computer and Artificial Intelligence - Cairo University).<br><br>- I'm Looking forward to gain more experience in AI and Data Science.<br><br>- I'm currently learning NLP.</p>
+- 🎓 Senior student at **Faculty of Computer & AI, Cairo University**
+- 🤖 Passionate about **Natural Language Processing (NLP)** and **LLMs**
+- 💡 Currently focused on **Retrieval-Augmented Generation (RAG)** and **Agentic AI**
+- 🔭 Always seeking to **collaborate on open-source AI projects**
+- 📘 Final year GPA: **3.76/4.0**
 
-###
+---
 
-<h2 align="left">Programming Languages</h2>
+### 💼 Current Focus Areas
 
-###
+- NLP + Transformers + LLMs (Gemini, GPT, Claude)
+- Retrieval-Augmented Generation (LangChain, ChromaDB)
+- AI for Healthcare
+- Model Fine-Tuning (LoRA, QLoRA)
 
+---
+
+### 🛠️ Tech Stack
+
+#### 👨‍💻 Programming Languages
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
 </div>
 
-###
-
-<h2 align="left">Frameworks & others</h2>
-
-###
-
+#### ⚙️ ML / Data Ecosystem
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" />
 </div>
 
-###
+#### 🔍 LLM Tooling
+LangChain • ChromaDB • FAISS • Hugging Face • CrewAI • Gemini API • ElevenLabs
 
-<h2 align="left">Connect</h2>
+#### 🧱 Engineering
+FastAPI • Docker • Git • Streamlit • Next.js
 
-###
+---
+
+### 🧩 Projects Spotlight
+
+#### 🩺 AI Voice Assistant for Breast Cancer Patients
+- Built with: **LangChain, Gemini, ElevenLabs, ChromaDB**
+- Real-time **voice-based retrieval system** for medical guidance
+- ⚡ 95% user satisfaction, <1.5s average response latency  
+![project1](https://hazem-waleed.vercel.app/demo.gif)
+
+#### 📊 End-to-End NLP Pipeline with Named Entity Recognition (NER)
+- Built a pipeline using **BiLSTM-CRF**, TF-IDF + SVM, and interactive dashboards
+- Used PyTorch + Streamlit for live testing and monitoring  
+- Accuracy: 92%+ on custom biomedical datasets
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hazem-walied&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hazem-walied&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+### 🧪 Certificates
+- 🧠 NLP Specialization – DeepLearning.AI  
+- 📊 Machine Learning – Andrew Ng  
+- 🧬 Deep Learning – Coursera
+
+---
+
+### 🌍 Let's Connect
 
 <div align="left">
   <a href="https://www.linkedin.com/in/hazem-waleed-758a06246/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" />
   </a>
-  <a href="hazem9711" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <a href="mailto:hazemwalied2003@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" />
   </a>
-  <a href="hazemwalied2003@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
-<h2 align="left">Visit my Website:</h2>
-
-###
-
-<div align="left">
   <a href="https://hazem-waleed.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" height="40" alt="website logo" />
+    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" height="30" />
   </a>
 </div>
-
-###
