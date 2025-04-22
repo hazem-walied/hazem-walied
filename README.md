@@ -43,8 +43,8 @@
   <a href="https://docs.trychroma.com/" target="_blank"><img src="./assets/chromadb2.png" height="40" alt="ChromaDB"/></a>
   <a href="https://huggingface.co/docs" target="_blank"><img src="./assets/hf.png" height="40" alt="Hugging Face"/></a>
   <a href="https://github.com/joaomdmoura/crewai" target="_blank"><img src="https://img.shields.io/badge/CrewAI-00BFFF?style=for-the-badge" /></a>
-  <a href="https://platform.openai.com/docs" target="_blank"><img src="./assets/openai.png" height="40" alt="OpenAI"/></a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="./assets/fastapi.png" height="40" alt="FastAPI"/></a>
+  <a href="https://platform.openai.com/docs" target="_blank"><img src="./assets/openai2.png" height="40" alt="OpenAI"/></a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="./assets/fastapi2.png" height="40" alt="FastAPI"/></a>
   <a href="https://docs.docker.com/" target="_blank"><img src="./assets/docker.png" height="40" alt="Docker"/></a>
   <a href="https://git-scm.com/doc" target="_blank"><img src="./assets/git.png" height="40" alt="Git"/></a>
   <a href="https://docs.streamlit.io/" target="_blank"><img src="./assets/streamlit.png" height="40" alt="Streamlit"/></a>
@@ -89,6 +89,6 @@
     <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" height="30"/>
   </a>
   <a href="https://www.kaggle.com/hazemwaleed" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="30"/>
+    <img src="./assets/kaggle.png" height="30"/>
   </a>
 </div>
