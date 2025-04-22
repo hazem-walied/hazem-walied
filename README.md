@@ -40,7 +40,7 @@
 <div align="left">
   <a href="https://docs.langchain.com/" target="_blank"><img src="./assets/langchain.png" height="40" alt="LangChain"/></a>
   <a href="https://github.com/facebookresearch/faiss" target="_blank"><img src="https://img.shields.io/badge/FAISS-007ACC?style=for-the-badge&logo=faiss&logoColor=white" /></a>
-  <a href="https://docs.trychroma.com/" target="_blank"><img src="./assets/chromadb.png" height="40" alt="ChromaDB"/></a>
+  <a href="https://docs.trychroma.com/" target="_blank"><img src="./assets/chromadb2.png" height="40" alt="ChromaDB"/></a>
   <a href="https://huggingface.co/docs" target="_blank"><img src="./assets/hf.png" height="40" alt="Hugging Face"/></a>
   <a href="https://github.com/joaomdmoura/crewai" target="_blank"><img src="https://img.shields.io/badge/CrewAI-00BFFF?style=for-the-badge" /></a>
   <a href="https://platform.openai.com/docs" target="_blank"><img src="./assets/openai.png" height="40" alt="OpenAI"/></a>
