@@ -38,17 +38,17 @@
 ### LLM Tooling & Engineering
 
 <div align="left">
-  <a href="https://docs.langchain.com/" target="_blank"><img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white" /></a>
-  <a href="https://github.com/facebookresearch/faiss" target="_blank"><img src="https://img.shields.io/badge/FAISS-007ACC?style=for-the-badge&logo=faiss&logoColor=white" /></a>
-  <a href="https://docs.trychroma.com/" target="_blank"><img src="https://img.shields.io/badge/ChromaDB-4B8BBE?style=for-the-badge" /></a>
-  <a href="https://huggingface.co/docs" target="_blank"><img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black" /></a>
-  <a href="https://github.com/joaomdmoura/crewai" target="_blank"><img src="https://img.shields.io/badge/CrewAI-00BFFF?style=for-the-badge" /></a>
-  <a href="https://platform.openai.com/docs" target="_blank"><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" /></a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /></a>
-  <a href="https://docs.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
-  <a href="https://git-scm.com/doc" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
-  <a href="https://docs.streamlit.io/" target="_blank"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" /></a>
-  <a href="https://nextjs.org/docs" target="_blank"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /></a>
+  <a href="https://docs.langchain.com/" target="_blank"><img src="./assets/langchain.png" height="40" alt="LangChain"/></a>
+  <a href="https://github.com/facebookresearch/faiss" target="_blank"><img src="./assets/faiss.png" height="40" alt="FAISS"/></a>
+  <a href="https://docs.trychroma.com/" target="_blank"><img src="./assets/chromadb.png" height="40" alt="ChromaDB"/></a>
+  <a href="https://huggingface.co/docs" target="_blank"><img src="./assets/hf.png" height="40" alt="Hugging Face"/></a>
+  <a href="https://github.com/joaomdmoura/crewai" target="_blank"><img src="./assets/crewai.png" height="40" alt="CrewAI"/></a>
+  <a href="https://platform.openai.com/docs" target="_blank"><img src="./assets/openai.png" height="40" alt="OpenAI"/></a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="./assets/fastapi.png" height="40" alt="FastAPI"/></a>
+  <a href="https://docs.docker.com/" target="_blank"><img src="./assets/docker.png" height="40" alt="Docker"/></a>
+  <a href="https://git-scm.com/doc" target="_blank"><img src="./assets/git.png" height="40" alt="Git"/></a>
+  <a href="https://docs.streamlit.io/" target="_blank"><img src="./assets/streamlit.png" height="40" alt="Streamlit"/></a>
+  <a href="https://nextjs.org/docs" target="_blank"><img src="./assets/nextjs.png" height="40" alt="Next.js"/></a>
 </div>
 
 
