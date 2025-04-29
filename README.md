@@ -69,9 +69,7 @@
 </p>
 -->
 
-<div align="center">
 ![GitHub Streak](https://streak-stats.demolab.com?user=hazem-walied&theme=dark)
-</div>
 
 <p align="center">
   <a href="https://github.com/hazem-walied">
