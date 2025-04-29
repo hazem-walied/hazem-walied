@@ -68,9 +68,9 @@
   </a>
 </p>
 -->
-
-![GitHub Streak](https://streak-stats.demolab.com?user=hazem-walied&theme=dark)
-
+<p align="center">
+  ![GitHub Streak](https://streak-stats.demolab.com?user=hazem-walied&theme=dark)
+</p>
 <p align="center">
   <a href="https://github.com/hazem-walied">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hazem-walied&size_weight=0.5&count_weight=0.5&theme=radical&layout=compact&title_color=3382ed&text_color=ffffff&icon_color=ec4899&bg_color=000000&hide_border=true" />
