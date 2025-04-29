@@ -67,7 +67,7 @@
   </a>
 </p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=default)
+![GitHub Streak](https://streak-stats.demolab.com?user=hazem-walied&theme=dark)
 
 
 <p align="center">
