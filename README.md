@@ -61,12 +61,7 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/hazem-walied">
-    <img src="https://github-readme-streak-stats.vercel.app/?user=hazem-walied&stroke=ffffff&background=000000&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-  </a>
-</p>
-
+<a href="http://www.github.com/hazem-walied"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hazem-walied&stroke=ffffff&background=000000&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 
 <p align="center">
