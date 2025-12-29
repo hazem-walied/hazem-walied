@@ -55,6 +55,10 @@
 
 ### GitHub Stats
 
+![](https://github-readme-stats.vercel.app/api?username=hazem-walied&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=z1adAhmed&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=z1adAhmed&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 <p align="center">
   <a href="https://github.com/hazem-walied">
     <img src="https://github-readme-stats.vercel.app/api?username=hazem-walied&hide=prs,contribs&show=reviews&show_icons=true&theme=radical&hide_rank=true&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=ec4899&bg_color=000000&hide_border=true" />
